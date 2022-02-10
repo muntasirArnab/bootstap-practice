@@ -1,0 +1,23 @@
+.header{
+
+    background:#9b59b6 ;
+}
+.header-logo img{
+
+    width: 220px;
+}
+.primary-menu{}
+.primary-menu ul{}
+.primary-menu ul li{
+
+    display: inline-block;
+}
+.primary-menu ul li a{
+
+    display: block;
+    color: aliceblue;
+    padding: 0 30px;
+    font-size: 20px;
+    line-height: 30px;
+}
+.primary-menu ul li a:hover{}
